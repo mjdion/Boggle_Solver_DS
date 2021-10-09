@@ -1,4 +1,5 @@
 /**
+ * Simmons Dion @02934839
  * Given a Boggle board and a dictionary, returns a list of available words in
  * the dictionary present inside of the Boggle board.
  * @param {string[][]} grid - The Boggle game board.
