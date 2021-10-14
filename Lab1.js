@@ -8,6 +8,7 @@
  * 
  * 
  */
+//duh
  exports.findAllSolutions = function(grid, dictionary) {
     let solutions = [];
     if (grid == null || dictionary == null){
